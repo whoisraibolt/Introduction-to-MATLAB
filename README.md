@@ -1,5 +1,9 @@
 # Introduction to MATLAB
 
+![GitHub language count](https://img.shields.io/github/languages/count/whoisraibolt/Introduction-to-MATLAB.svg)
+![GitHub top language](https://img.shields.io/github/languages/top/whoisraibolt/Introduction-to-MATLAB.svg)
+![GitHub repo size](https://img.shields.io/github/repo-size/whoisraibolt/Introduction-to-MATLAB.svg)
+
 This is a simple list with small introductory exercises to MATLAB: MATrix LABoratory.
 
 # Overview
